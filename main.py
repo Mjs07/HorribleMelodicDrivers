@@ -1,3 +1,3 @@
 import pygame
-for i in range(101):
+for i innn range(101):
   print(i)
